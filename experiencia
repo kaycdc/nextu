@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <title>Hoja de Vida - Experiencia</title>
+  </head>
+  <body>
+    <header>
+      <svg
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:cc="http://creativecommons.org/ns#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:svg="http://www.w3.org/2000/svg"
+         xmlns="http://www.w3.org/2000/svg"
+         xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+         xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+         width="23.452978mm"
+         height="25.107704mm"
+         viewBox="0 0 23.452978 25.107704"
+         version="1.1"
+         id="svg8"
+         inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+         sodipodi:docname="logo.svg">
+        <defs
+           id="defs2">
+          <inkscape:perspective
+             sodipodi:type="inkscape:persp3d"
+             inkscape:vp_x="37.124827 : 163.8647 : 1"
+             inkscape:vp_y="0 : 751.20632 : 0"
+             inkscape:vp_z="123.91628 : 163.8647 : 1"
+             inkscape:persp3d-origin="80.520551 : 126.67998 : 1"
+             id="perspective14" />
+        </defs>
+        <sodipodi:namedview
+           id="base"
+           pagecolor="#ffffff"
+           bordercolor="#666666"
+           borderopacity="1.0"
+           inkscape:pageopacity="0.0"
+           inkscape:pageshadow="2"
+           inkscape:zoom="0.35"
+           inkscape:cx="162.85715"
+           inkscape:cy="-243.29811"
+           inkscape:document-units="mm"
+           inkscape:current-layer="layer1"
+           showgrid="false"
+           inkscape:window-width="1366"
+           inkscape:window-height="705"
+           inkscape:window-x="-8"
+           inkscape:window-y="-8"
+           inkscape:window-maximized="1" />
+        <metadata
+           id="metadata5">
+          <rdf:RDF>
+            <cc:Work
+               rdf:about="">
+              <dc:format>image/svg+xml</dc:format>
+              <dc:type
+                 rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+              <dc:title />
+            </cc:Work>
+          </rdf:RDF>
+        </metadata>
+        <g
+           inkscape:label="Capa 1"
+           inkscape:groupmode="layer"
+           id="layer1"
+           transform="translate(-62.744046,-59.353004)">
+          <rect
+             style="fill:#0000ff;stroke-width:0.26458332"
+             id="rect35"
+             width="9.8273821"
+             height="20.410715"
+             x="65.011902"
+             y="65.561897" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:9.52776146px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.23819403"
+             x="70.752686"
+             y="70.697281"
+             id="text12"
+             transform="scale(0.90026098,1.110789)"><tspan
+               sodipodi:role="line"
+               id="tspan10"
+               x="70.752686"
+               y="70.697281"
+               style="fill:#ff0000;stroke-width:0.23819403">Dicol</tspan></text>
+          <rect
+             style="fill:#ff0000;stroke-width:0.26458332"
+             id="rect30"
+             width="18.142857"
+             height="0.75595242"
+             x="65.011902"
+             y="64.805946" />
+        </g>
+      </svg>
+    </header>
+    <h1>Hoja de Vida</h1>
+    <h2>Datos Personales</h2>
+    <h3>Carlos Enrique Díaz Colmenares</h3>
+    <h3>Bucaramanga, 18 de Septiembre de 1992</h3>
+    <ul>
+      <li><a href="index.html">Inicio.</a></li>
+      <li><a href="educacion.html">Educación.</a></li>
+      <li><a href="experiencia.html">Experiencia.</a></li>
+    </ul>
+    <h2>Experiencia</h2>
+
+    <h3>Habilidades e Intereses: </h3>
+    <video src="videos/aboutme.mp4" controls poster="images/poster.jpg" width="200px" height="200px"></video>
+    <p>Hago este curso de Programación WEB con el fin de crear más habilidades en el campo de la informática y poder ponerlas en práctica en la gerencia de proyectos y posteriormente creando una empresa de desarrollo web.</p>
+    </br>
+    <h3>Actividades Recreacionales: </h3>
+    <audio src="audios/hobbies.m4a" controls></audio><br/>
+    <p>Me encanta la lectura, leo principalmente novelas policiacas. Mi autor favorito es Dan Brown.<br7>Por otro lado, me gusta ver y practicar deportes tales como el fútbol y el ciclismo.</p>
+    <footer>
+      <p></br>Todos los derechos e izquierdos reservados <br/>
+      <a href="mailto:carlosediazc@hotmail.com?subject=HojaVida">carlosediazc@hotmail.com</a> | 301 123 45 67 | Calle Siempre Viva 123</p>
+    </footer>
+  </body>
+</html>
