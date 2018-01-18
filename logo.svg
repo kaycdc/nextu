@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="23.452978mm"
+   height="25.107704mm"
+   viewBox="0 0 23.452978 25.107704"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="37.124827 : 163.8647 : 1"
+       inkscape:vp_y="0 : 751.20632 : 0"
+       inkscape:vp_z="123.91628 : 163.8647 : 1"
+       inkscape:persp3d-origin="80.520551 : 126.67998 : 1"
+       id="perspective14" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="162.85715"
+     inkscape:cy="-243.29811"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-62.744046,-59.353004)">
+    <rect
+       style="fill:#0000ff;stroke-width:0.26458332"
+       id="rect35"
+       width="9.8273821"
+       height="20.410715"
+       x="65.011902"
+       y="65.561897" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.52776146px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.23819403"
+       x="70.752686"
+       y="70.697281"
+       id="text12"
+       transform="scale(0.90026098,1.110789)"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="70.752686"
+         y="70.697281"
+         style="fill:#ff0000;stroke-width:0.23819403">Dicol</tspan></text>
+    <rect
+       style="fill:#ff0000;stroke-width:0.26458332"
+       id="rect30"
+       width="18.142857"
+       height="0.75595242"
+       x="65.011902"
+       y="64.805946" />
+  </g>
+</svg>
